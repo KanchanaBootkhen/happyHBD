@@ -1,3 +1,3 @@
 # happyHBD
- <img src=/Capture.png>
- <img src=/Capture2.png>
+ <img src=/Capture.PNG>
+ <img src=/Capture2.PNG>
